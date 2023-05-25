@@ -172,7 +172,7 @@
       }
     },
     {
-      "name": "editor::EntityNode",
+      "name": "inspector::EntityNode",
       "jsonSchema": {
         "type": "object",
         "properties": {
